@@ -1,4 +1,5 @@
-# True and Fake News Detection
+# Fake News Prediction
+
 ## Goal
 To detect news whether are true or fake using unsupervised learning by building a suitable classification model.
 
