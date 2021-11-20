@@ -1,4 +1,5 @@
-# Fake News Prediction
+# Fake News Detection
+
 The goal of this project is to predict the truth of news whether true or fake using natural language processing by building a classification model.
 
 
